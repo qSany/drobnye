@@ -109,6 +109,7 @@ public class Main {
         System.out.println("кол дней по 250 " + dney3+ " каждый день по 500 "+ dney4 + "среднее значание дней " + sredneyDney);
 
 
+
         System.out.println("Задача8");
         int masha = 67760;
         int denis = 83690;
